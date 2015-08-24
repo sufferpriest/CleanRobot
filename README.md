@@ -14,6 +14,6 @@ Now following features added in version 1.0 (2014-10-20)<br>
 Current this open source project is under development, more people who intresting in this are expected to join us
 to DIY clean robot more smart.<br>
 <br>
-You can contact me by gxiaotom@gmail.com<br>
+You can contact me by 110671958@qq.com or gxiaotom@gmail.com<br>
 
 <img src="https://raw.githubusercontent.com/sufferpriest/CleanRobot/master/stl/IMG_20140831_084123_103.jpg" alt="IMG_20140831_084123_103.jpg">
